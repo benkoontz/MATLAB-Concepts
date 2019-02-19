@@ -33,3 +33,7 @@ size(B) % creates a 4 by 4 matrix
 B(2:3, 2:3) % gets 2nd and 3rd row and 2nd and 3rd column
 
 w = 1:10 % creates row vector with elements 1 to 10
+
+T = [A; A; A];
+T = [[[1,2]; [3 4]]; [[5 6]; [7 8]];]
+size(T) % prints 4 by 2 matrix
