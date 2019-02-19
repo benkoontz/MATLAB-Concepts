@@ -1,6 +1,0 @@
-What's your name : Ben
-name =
-    'Ben'
-Hello Ben
-Enter a vector : [2 5 7]
-     2     5     7
