@@ -4,7 +4,10 @@
 
 % matlab stands for matrix laboratory
 
-% matlab is mostly for math
+% matlab is mostly for math, which is why I personally don't enjoy
+% it very much. I find making applications such as games to be 
+% a lot more fun and enjoyable. So if you don't have a high interest
+% in math, I'd say you could just skip learning about it.
 
 % matlab is often used for analyzing data
 
